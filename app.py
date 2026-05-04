@@ -256,9 +256,9 @@ div[data-testid="stDialog"] > div[role="dialog"] {
     margin-bottom: 50px !important;
 }
 div[data-testid="stDialog"] button[aria-label="Close"] { display: none !important; }
-.stAppViewContainer { margin-top: 0.5rem !important; }
+.stAppViewContainer { margin-top: 0 !important; }
 .stApp { padding-top: 0 !important; }
-.block-container { padding-top: 2.0rem !important; }
+.block-container { padding-top: 4.0rem !important; }
 </style>
 """, unsafe_allow_html=True)
 
