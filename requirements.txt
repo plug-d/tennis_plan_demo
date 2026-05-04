@@ -1,5 +1,5 @@
-streamlit
-streamlit-calendar
+streamlit>=1.32.0
+streamlit-calendar==1.0.2
 plotly>=5.0.0
-pandas
-python-dateutil
+pandas>=2.0.0
+python-dateutil>=2.8.0
