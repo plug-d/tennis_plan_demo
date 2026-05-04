@@ -1,0 +1,5 @@
+streamlit
+streamlit-calendar
+plotly>=5.0.0
+pandas
+python-dateutil
